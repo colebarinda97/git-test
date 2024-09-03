@@ -1,4 +1,3 @@
-# git-test
 echo "# git-test" >> README.md
 git init
 git add README.md
